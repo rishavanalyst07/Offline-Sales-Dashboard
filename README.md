@@ -13,4 +13,4 @@ Description - Developed an offline Power BI Sales Dashboard for Leeford Healthca
 
 Show what the dashboard looks like
 
-Example: ![Dashboard Preview](https://github.com/rishavanalyst07/Publicis-Pulse-Survey/blob/main/Snapshot%20of%20Publicis%20Pulse%20Survey.png).
+Example: ![Dashboard Preview](https://github.com/rishavanalyst07/Offline-Sales-Dashboard/blob/main/Snapshot%20of%20offline%20sales.png).
