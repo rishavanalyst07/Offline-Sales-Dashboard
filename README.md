@@ -22,12 +22,17 @@ After data preparation, I developed DAX measures for sales KPIs, target achievem
 
 *5. Key Features of the Solution*
 
-•Analyzed three key KPIs: Media Air Date → Client Bill Creation, Vendor Invoice Date → Invoice Receipt, and Invoice Receipt →
-Invoice Booking to measure end-to-end billing efficiency.
-•Designed delay bucket analysis (0–30, 31–60, 61–90, 90+ days) to identify billing bottlenecks, overdue invoices, and process gaps.
-•Built vendor-level performance visuals to highlight high-delay vendors impacting overall billing cycle time.
-•Delivered transaction-level visibility for Finance and Media teams to support invoice follow-ups, cash-flow monitoring, and
-payment prioritization.
+•Improved sales visibility with Primary Sales Target vs Achieved and % Achievement KPIs, helping managers track progress and address gaps faster.
+
+•Strengthened distributor performance management by using Secondary Sales Target vs Achieved KPIs to understand retail demand and improve sales execution.
+
+•Helped refine channel strategies through a clear breakdown of GT vs MT Sales Contribution, improving resource allocation across trade channels.
+
+•Improved regional decision-making with Region-wise Target vs Achieved visuals, enabling managers to quickly identify underperforming regions.
+
+•Enhanced supply chain efficiency with Days of Stock (DOS) insights, helping reduce stockouts and excess inventory at distributor warehouses.
+
+•Made business reviews faster and more data-driven by consolidating key KPIs such as % Growth, Value Change (₹), MoM Trends, and Achievement %.
 
 *6. Impact and Results*
 
